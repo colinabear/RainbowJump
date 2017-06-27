@@ -1,0 +1,58 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4590
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Colin Hebert\Documents\LineMoverBallGame\RainbowRage_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.334675 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.414783 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.262346 ms (FindLiveObjects: 0.026093 ms CreateObjectMapping: 0.020099 ms MarkObjects: 0.200286 ms  DeleteObjects: 0.015162 ms)
+
+You ded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357906 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.825123 ms (FindLiveObjects: 0.063118 ms CreateObjectMapping: 0.027151 ms MarkObjects: 0.721453 ms  DeleteObjects: 0.011636 ms)
+
+You ded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.385057 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 0.594159 ms (FindLiveObjects: 0.061707 ms CreateObjectMapping: 0.021157 ms MarkObjects: 0.490842 ms  DeleteObjects: 0.019041 ms)
+
+You ded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 36a4 -> priority: 1 
+  Thread -> id: 1910 -> priority: 1 
